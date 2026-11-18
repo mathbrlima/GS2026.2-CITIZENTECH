@@ -10,8 +10,10 @@
 | Matheus Bruno | RM572944 |
 | Enzo Stahal    | RM569001 |
 
-**Simulação (Wokwi):** https://wokwi.com/projects/480807567396977665
-**Vídeo demonstrativo:** https://youtu.be/T3CiwTr223o
+**Simulação (Wokwi):**  https://wokwi.com/projects/480807567396977665 
+
+**Vídeo demonstrativo:**  https://youtu.be/T3CiwTr223o
+
 ---
 
 ## 1. Identificação do problema
